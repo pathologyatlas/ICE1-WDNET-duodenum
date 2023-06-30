@@ -6,18 +6,10 @@
 
 
 
-```
-see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-```
-
-
-
-
 ```{r language ICE1-WDNET-duodenum, echo=FALSE, include=TRUE}
 source("./R/language.R")
 output_type <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 ```
-
 
 
 
